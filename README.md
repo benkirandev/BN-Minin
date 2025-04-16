@@ -8,7 +8,8 @@
     <a href="#more-scripts">More Scripts</a>
 </p>
 
-[![lation 247robbery youtube preview]([](https://r2.fivemanage.com/QPANegrwzeUqCkqNWEXSR/1000120113.jpg))](https://youtu.be/yy2uLH5mtcs)
+[![lation 247robbery youtube preview]([](![17448348712256790759459852154113](https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128)
+))](https://youtu.be/yy2uLH5mtcs)
 
 ## 🔑 Key Features
 
