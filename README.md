@@ -8,13 +8,13 @@
     <a href="#more-scripts">More Scripts</a>
 </p>
 
-[![lation 247robbery youtube preview]([https://img.lationscripts.com/other/lation-mining-thumbnail.jpg](https://r2.fivemanage.com/QPANegrwzeUqCkqNWEXSR/1000120113.jpg))](https://youtu.be/yy2uLH5mtcs)
+[![lation 247robbery youtube preview]([](https://r2.fivemanage.com/QPANegrwzeUqCkqNWEXSR/1000120113.jpg))](https://youtu.be/yy2uLH5mtcs)
 
 ## 🔑 Key Features
 
 * Supports all major FiveM frameworks
   - [ESX](https://github.com/esx-framework)
-  - [QBCore](https://github.com/qbcore-framework)
+  - [QBCore](https://github.com/qbcore-frameworkhttps://r2.fivemanage.com/QPANegrwzeUqCkqNWEXSR/1000120113.jpg)
   - [QBox](https://github.com/Qbox-project)
   - [Ox](https://github.com/overextended)
 * Built-in log support
