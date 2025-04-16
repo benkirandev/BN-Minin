@@ -1,17 +1,4 @@
-<h1 align="center">
-    <br>
-    <a href="https://lationscripts.com?utm_source=github&utm_medium=free-script"><img src="https://img.lationscripts.com/icons/lation-scripts-logo.png" alt="Lation Scripts logo"><a>
-    <br>
-        Lation Scripts
-    <br>
-</h1>
-
-<h4 align="center">The best mining script available on FiveM.</h4>
-
-<p align="center">
-    <img src="https://img.shields.io/github/stars/iamlation/lation_mining?logo=github">
-    <img src="https://img.shields.io/github/downloads/iamlation/lation_mining/total?logo=github&style=social">
-</p>
+## BN |MININ
 
 <p align="center">
     <a href="#key-features">Key Features</a> •
