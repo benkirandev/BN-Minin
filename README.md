@@ -84,7 +84,7 @@ The following resources are **required** in order to setup this resource:
 * **Step 1**
   - Install (*or ensure you have the latest of*) each dependency listed above
 * **Step 2**
-  - Download the latest release of ```lation_mining```
+  - Download the latest release of ```BN_mining```
 * **Step 3**
   - Extract the zipped folder into your servers main ```resources``` directory
 * **Step 4**
