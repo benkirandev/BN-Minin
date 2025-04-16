@@ -6,8 +6,8 @@
     <a href="#installation">Installation</a> •
 
 </p>
-https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128
-[![ youtube preview]([](![https://discord.com/channels/1350845511648808991/1350845513800613996/1362160838789693540](https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128)
+
+[![ youtube preview]([](![](https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128)
 ))]([https://youtu.be/yy2uLH5mtcs](https://youtu.be/eB_TK2G7REw?si=CphIQGZdw2FVNVse))
 
 ## 🔑 Key Features
