@@ -7,7 +7,7 @@
 
 </p>
 
-[![ youtube preview]([](![](https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128)
+[![ youtube preview]([](![https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128](https://github.com/user-attachments/assets/5f6bfd54-fddb-402f-862b-a3afc84b8128)
 ))]([https://youtu.be/yy2uLH5mtcs](https://youtu.be/eB_TK2G7REw?si=CphIQGZdw2FVNVse))
 
 ## 🔑 Key Features
